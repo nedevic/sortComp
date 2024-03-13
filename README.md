@@ -19,7 +19,7 @@ Once you went through the prerequisites section, you need to generate a file cal
 be sorted. For this, you can run _input_generator.py_ using `python input_generator.py`.
 
 Then, with the virtual environment active, you can run the following command:
-`python --algo=<algo_name> main.py`, where _<algo_name>_ is one of the following:
+`python main.py --algo <algo_name>`, where _<algo_name>_ is one of the following:
 - bubble
 - qsort3
 - pythonStd
